@@ -1,0 +1,12 @@
+.accordion .acc-mybutton{
+    font-size: 16px;
+    font-weight: 500;
+    background: linear-gradient(rgb(184, 81, 30), rgb(40, 37, 37)) !important;
+    color: #fff !important;
+}
+
+.acc-mybody{
+    font-size: 16px;
+    font-weight: 500;
+    text-align: justify;
+}
